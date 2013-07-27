@@ -7,8 +7,8 @@ Ideas:
 == Must haves for MVP
 1. incident api
 2. manual adding of incidents
-3. component addition/removal
-4. component status tracking/status changing
+3. service addition/removal
+4. service status tracking/status changing
   - statuses, defaults to the below 4 but is customizable:
     - operational
     - down
@@ -16,7 +16,7 @@ Ideas:
     - degraded performance
 5. notification system for updates:
   - people can subscribe to the status page
-  - people are notified when incidents are reported, or when the status changes of a component
+  - people are notified when incidents are reported, or when the status changes of a service
   - notification via sms/email
 6. must be customizable, but can have a default template
   - can have users upload stylesheet, or use simple color changes
